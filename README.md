@@ -1,2 +1,2 @@
 # mannngooo.github.io
-mango个博客
+mango个人博客
